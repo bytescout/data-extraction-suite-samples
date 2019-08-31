@@ -1,0 +1,708 @@
+## Index of source code examples:
+
+\ASP Classic
+\ASP.NET C#
+\ASP.NET MVC C#
+\ASP.NET VB
+\C#
+\C++
+\Console
+\Delphi
+\JavaScript
+\M-Files
+\Microsoft Access
+\Microsoft Excel
+\PHP
+\Powershell
+\SAP PowerBuilder
+\VB.NET
+\VBScript
+\Visual Basic 6
+\ASP Classic\Extract Text from PDF with PDF Extractor SDK
+\ASP Classic\Generate xls spreadsheet with spreadsheet sdk
+\ASP Classic\Read barcode from image with barcode reader sdk
+\ASP Classic\Read barcode from pdf with barcode reader sdk
+\ASP.NET C#\Batch Process PDF to Text with PDF Extractor SDK
+\ASP.NET C#\Batch read barcodes to csv with barcode reader sdk
+\ASP.NET C#\Decode page by page from pdf or tiff with barcode reader sdk
+\ASP.NET C#\Display xls as html with spreadsheet sdk
+\ASP.NET C#\Extract Attachments from PDF with PDF Extractor SDK
+\ASP.NET C#\Extract Images from PDF with PDF Extractor SDK
+\ASP.NET C#\Extract Text By Columns from PDF with PDF Extractor SDK
+\ASP.NET C#\Extract Text From Page Area in PDF with PDF Extractor SDK
+\ASP.NET C#\Extract Text from PDF with PDF Extractor SDK
+\ASP.NET C#\Find Text in PDF with PDF Extractor SDK
+\ASP.NET C#\Find Text With Hyphens in PDF with PDF Extractor SDK
+\ASP.NET C#\Get PDF Document Information with PDF Extractor SDK
+\ASP.NET C#\Make PDF Unsearchable with PDF Extractor SDK
+\ASP.NET C#\OCR (Optical Character Recognition) in PDF with PDF Extractor SDK
+\ASP.NET C#\Read barcode with barcode reader sdk
+\ASP.NET C#\Read barcodes from image with barcode reader sdk
+\ASP.NET C#\Read barcodes from pdf with barcode reader sdk
+\ASP.NET C#\Read from live camera with barcode reader sdk
+\ASP.NET C#\Split pdf by barcode with barcode reader sdk
+\ASP.NET C#\ZUGFeRD Invoice Extraction with PDF Extractor SDK
+\ASP.NET C#\Batch read barcodes to csv with barcode reader sdk\BarcodeFiles
+\ASP.NET MVC C#\Batch read barcodes to csv with barcode reader sdk
+\ASP.NET MVC C#\Decode page by page from pdf or tiff with barcode reader sdk
+\ASP.NET MVC C#\Read barcode with barcode reader sdk
+\ASP.NET MVC C#\Read barcodes from image with barcode reader sdk
+\ASP.NET MVC C#\Read barcodes from pdf with barcode reader sdk
+\ASP.NET MVC C#\Read from live camera with barcode reader sdk
+\ASP.NET MVC C#\Split pdf by barcode with barcode reader sdk
+\ASP.NET MVC C#\Batch read barcodes to csv with barcode reader sdk\BarcodeFiles
+\ASP.NET MVC C#\Read from live camera with barcode reader sdk\app
+\ASP.NET VB\Batch read barcodes to csv with barcode reader sdk
+\ASP.NET VB\Decode page by page from pdf or tiff with barcode reader sdk
+\ASP.NET VB\Display xls as html with spreadsheet sdk
+\ASP.NET VB\Read barcode with barcode reader sdk
+\ASP.NET VB\Read barcodes from image with barcode reader sdk
+\ASP.NET VB\Read barcodes from pdf with barcode reader sdk
+\ASP.NET VB\Batch read barcodes to csv with barcode reader sdk\BarcodeFiles
+\C#\Acquire barcode from scanner and decode with barcode reader sdk
+\C#\Add area chart with spreadsheet sdk
+\C#\Add background image with spreadsheet sdk
+\C#\Add bar chart with spreadsheet sdk
+\C#\Add bubble chart with spreadsheet sdk
+\C#\Add column chart with spreadsheet sdk
+\C#\Add columns into existing spreadsheet with spreadsheet sdk
+\C#\Add combination chart with spreadsheet sdk
+\C#\Add doughnut chart with spreadsheet sdk
+\C#\Add header and footer for spreadsheet with spreadsheet sdk
+\C#\Add image into existing spreadsheet with spreadsheet sdk
+\C#\Add Image Stamp in PDF with PDF Extractor SDK
+\C#\Add image to spreadsheet with spreadsheet sdk
+\C#\Add images advanced with spreadsheet sdk
+\C#\Add images to spreadsheet with spreadsheet sdk
+\C#\Add line chart with spreadsheet sdk
+\C#\Add pie chart with spreadsheet sdk
+\C#\Add radar chart with spreadsheet sdk
+\C#\Add rows into existing spreadsheet with spreadsheet sdk
+\C#\Add stock chart with spreadsheet sdk
+\C#\Add surface chart with spreadsheet sdk
+\C#\Add xyscatter chart with spreadsheet sdk
+\C#\Batch check folder agianst JSON settings with PDF Extractor SDK
+\C#\Batch read barcodes to csv with barcode reader sdk
+\C#\Batch read from files with barcode reader sdk
+\C#\Calculate auto update on cell change with spreadsheet sdk
+\C#\Calculate formula in cell with spreadsheet sdk
+\C#\Calculate xirr function with spreadsheet sdk
+\C#\Calculations and spreadsheet as database with spreadsheet sdk
+\C#\Change cell width and height with spreadsheet sdk
+\C#\Change column width and row height with spreadsheet sdk
+\C#\Change data in existing spreadsheet with spreadsheet sdk
+\C#\Change document properties with spreadsheet sdk
+\C#\Check If OCR Is Required for PDF with PDF Extractor SDK
+\C#\Compare PDF Documents with PDF Extractor SDK
+\C#\Convert csv to sql server with spreadsheet sdk
+\C#\Convert csv to xls with spreadsheet sdk
+\C#\Convert ods to sql server with spreadsheet sdk
+\C#\Convert PDF To CSV (Merge multiline text to table cell) with PDF Extractor SDK
+\C#\Convert PDF To CSV By Pages with PDF Extractor SDK
+\C#\Convert PDF To CSV with PDF Extractor SDK
+\C#\Convert PDF To JSON With Images with PDF Extractor SDK
+\C#\Convert PDF To JSON with PDF Extractor SDK
+\C#\Convert PDF To XFDF with PDF Extractor SDK
+\C#\Convert PDF To XLS with PDF Extractor SDK
+\C#\Convert PDF To XLSX with PDF Extractor SDK
+\C#\Convert PDF To XML With Images with PDF Extractor SDK
+\C#\Convert PDF To XML with PDF Extractor SDK
+\C#\Convert PDF XFA Form To XML with PDF Extractor SDK
+\C#\Convert Protected PDF Document to XLS with PDF Extractor SDK
+\C#\Convert Scanned PDF to CSV with PDF Extractor SDK
+\C#\Convert Scanned PDF to JSON with PDF Extractor SDK
+\C#\Convert Scanned PDF to Text with PDF Extractor SDK
+\C#\Convert Scanned PDF to XML with PDF Extractor SDK
+\C#\Convert template to xls with spreadsheet sdk
+\C#\Convert txt to sql server with spreadsheet sdk
+\C#\Convert xls to csv with spreadsheet sdk
+\C#\Convert xls to sql server (via csv bulk insert) with spreadsheet sdk
+\C#\Convert xls to sql server with spreadsheet sdk
+\C#\Convert xls to txt with spreadsheet sdk
+\C#\Convert xls to xlsx with spreadsheet sdk
+\C#\Convert xls to xml and xml to xls with spreadsheet sdk
+\C#\Convert xls to xml with spreadsheet sdk
+\C#\Convert xlsx to sql server with spreadsheet sdk
+\C#\Convert xml to xls with spreadsheet sdk
+\C#\Copy range with spreadsheet sdk
+\C#\Copy worksheet with spreadsheet sdk
+\C#\Copypaste columns with spreadsheet sdk
+\C#\Copypaste rows with spreadsheet sdk
+\C#\Create hello world spreadsheet with spreadsheet sdk
+\C#\Create worksheets with spreadsheet sdk
+\C#\Create xlsx with spreadsheet sdk
+\C#\Data Masking in PDF with PDF Extractor SDK
+\C#\Decode australian post code barcode with barcode reader sdk
+\C#\Decode aztec barcode with barcode reader sdk
+\C#\Decode bookland barcode with barcode reader sdk
+\C#\Decode codabar barcode with barcode reader sdk
+\C#\Decode codablock f barcode with barcode reader sdk
+\C#\Decode code 128 barcode with barcode reader sdk
+\C#\Decode code 16k barcode with barcode reader sdk
+\C#\Decode code 39 barcode with barcode reader sdk
+\C#\Decode code 93 barcode with barcode reader sdk
+\C#\Decode damaged code 128 barcode with barcode reader sdk
+\C#\Decode damaged code 39 barcode with barcode reader sdk
+\C#\Decode damaged datamatrix barcode with barcode reader sdk
+\C#\Decode damaged qr code barcode with barcode reader sdk
+\C#\Decode datamatrix barcode with barcode reader sdk
+\C#\Decode deutsche post identcode barcode with barcode reader sdk
+\C#\Decode deutsche post leitcode barcode with barcode reader sdk
+\C#\Decode ean-128 barcode with barcode reader sdk
+\C#\Decode ean-13 barcode with barcode reader sdk
+\C#\Decode ean-14 barcode with barcode reader sdk
+\C#\Decode ean-2 barcode with barcode reader sdk
+\C#\Decode ean-5 barcode with barcode reader sdk
+\C#\Decode ean-8 barcode with barcode reader sdk
+\C#\Decode gs1 databar expanded barcode with barcode reader sdk
+\C#\Decode gs1 databar expanded stacked barcode with barcode reader sdk
+\C#\Decode gs1 databar limited barcode with barcode reader sdk
+\C#\Decode gs1 databar omnidirectional barcode with barcode reader sdk
+\C#\Decode gs1 databar stacked barcode with barcode reader sdk
+\C#\Decode gs1 datamatrix barcode with barcode reader sdk
+\C#\Decode gs1-128 barcode with barcode reader sdk
+\C#\Decode intelligent mail barcode with barcode reader sdk
+\C#\Decode interleaved 2 of 5 barcode with barcode reader sdk
+\C#\Decode isbn barcode with barcode reader sdk
+\C#\Decode itf-14 barcode with barcode reader sdk
+\C#\Decode jan-13 barcode with barcode reader sdk
+\C#\Decode macro pdf417 barcode with barcode reader sdk
+\C#\Decode maxicode barcode with barcode reader sdk
+\C#\Decode micr from bank check barcode with barcode reader sdk
+\C#\Decode numly barcode with barcode reader sdk
+\C#\Decode page by page from tiff with barcode reader sdk
+\C#\Decode patch code barcode with barcode reader sdk
+\C#\Decode pdf417 barcode with barcode reader sdk
+\C#\Decode pzn barcode with barcode reader sdk
+\C#\Decode qr code barcode with barcode reader sdk
+\C#\Decode qr code barcode with json with barcode reader sdk
+\C#\Decode royal mail barcode with barcode reader sdk
+\C#\Decode royal mail kix barcode with barcode reader sdk
+\C#\Decode swiss post parcel barcode with barcode reader sdk
+\C#\Decode truncated pdf417 barcode with barcode reader sdk
+\C#\Decode upc-a barcode with barcode reader sdk
+\C#\Decode upc-e barcode with barcode reader sdk
+\C#\Decode usps sack label barcode with barcode reader sdk
+\C#\Decode usps tray label barcode with barcode reader sdk
+\C#\Decoding barcodes from pdf by pages with barcode reader sdk
+\C#\Detect Lines in PDF with PDF Extractor SDK
+\C#\Export results to xml, csv, txt with barcode reader sdk
+\C#\Export to 2d array with spreadsheet sdk
+\C#\Export to dataset with spreadsheet sdk
+\C#\Export to datatable with spreadsheet sdk
+\C#\Export to html with spreadsheet sdk
+\C#\Export to jagged array with spreadsheet sdk
+\C#\Export to json with spreadsheet sdk
+\C#\Export to list with spreadsheet sdk
+\C#\Export to pdf with spreadsheet sdk
+\C#\Export to winforms datagrid with spreadsheet sdk
+\C#\Extract Attachments from PDF with PDF Extractor SDK
+\C#\Extract Audio from PDF with PDF Extractor SDK
+\C#\Extract CSV from PDF and Fill Database (SQL Server) with PDF Extractor SDK
+\C#\Extract Filled PDF Form Data with PDF Extractor SDK
+\C#\Extract Images by Page from PDF with PDF Extractor SDK
+\C#\Extract Images from PDF with PDF Extractor SDK
+\C#\Extract PDF document Info with PDF Extractor SDK
+\C#\Extract PDF Pages with PDF Extractor SDK
+\C#\Extract PDF Text From Page Area with PDF Extractor SDK
+\C#\Extract PDF text To Stream with PDF Extractor SDK
+\C#\Extract Table Structure from PDF with PDF Extractor SDK
+\C#\Extract Text By Columns from PDF with PDF Extractor SDK
+\C#\Extract Text From Large PDF Document in Parallel Processing
+\C#\Extract Text From PDF By Pages with PDF Extractor SDK
+\C#\Extract Text from PDF with PDF Extractor SDK
+\C#\Extract Video from PDF with PDF Extractor SDK
+\C#\Find Email Addresses in PDF with Regex with PDF Extractor SDK
+\C#\Find Keyword And Extract Page in PDF with PDF Extractor SDK
+\C#\Find Keyword And Extract Text in PDF with PDF Extractor SDK
+\C#\Find PDF Table And Extract As CSV with PDF Extractor SDK
+\C#\Find PDF Table And Extract As XML with PDF Extractor SDK
+\C#\Find Phone Number in PDF with Regex with PDF Extractor SDK
+\C#\Find SSN in PDF with Regex with PDF Extractor SDK
+\C#\Find Text in PDF using Regex with PDF Extractor SDK
+\C#\Find Text in PDF With Hyphens with PDF Extractor SDK
+\C#\Find Text in PDF with PDF Extractor SDK
+\C#\Find Text in PDF with Smart Match with PDF Extractor SDK
+\C#\Find US Address in PDF with Regex with PDF Extractor SDK
+\C#\Font style in cell with spreadsheet sdk
+\C#\Fonts available for cells with spreadsheet sdk
+\C#\Freeze rows and columns with spreadsheet sdk
+\C#\General example reading barcodes with barcode reader sdk
+\C#\Generate invoice with spreadsheet sdk
+\C#\Get cell color with spreadsheet sdk
+\C#\Gui example for barcode reading with barcode reader sdk
+\C#\Hidden formula with spreadsheet sdk
+\C#\Hidden rows and columns with spreadsheet sdk
+\C#\Image preprocessing filters with barcode reader sdk
+\C#\Import from 2d array with spreadsheet sdk
+\C#\Import from data table with spreadsheet sdk
+\C#\Import from dataset with spreadsheet sdk
+\C#\Import from jagged array with spreadsheet sdk
+\C#\Import from json with spreadsheet sdk
+\C#\Import from list with spreadsheet sdk
+\C#\Import from winforms datagrid with spreadsheet sdk
+\C#\Index PDF Documents In Folder with PDF Extractor SDK
+\C#\Index PDF Files with PDF Extractor SDK
+\C#\Insert page break with spreadsheet sdk
+\C#\Interrupt barcode decoding processing with barcode reader sdk
+\C#\Line styles in cells with spreadsheet sdk
+\C#\Make Searchable PDF and Fix Rotated Pages with PDF Extractor SDK
+\C#\Make Searchable PDF Discarding Existing Content with PDF Extractor SDK
+\C#\Make Searchable PDF from Image with PDF Extractor SDK
+\C#\Make Searchable PDF with PDF Extractor SDK
+\C#\Make Unsearchable PDF with PDF Extractor SDK
+\C#\Merge cells with spreadsheet sdk
+\C#\Merge PDF Documents with PDF Extractor SDK
+\C#\Merge Protected PDF Documents with PDF Extractor SDK
+\C#\Merge two documents with spreadsheet sdk
+\C#\OCR Analyser with PDF Extractor SDK
+\C#\OCR With Best Dataset with PDF Extractor SDK
+\C#\OCR With Fast Dataset with PDF Extractor SDK
+\C#\OCR With Mean Dataset with PDF Extractor SDK
+\C#\Optimize PDF with PDF Extractor SDK
+\C#\Parallel barcode decoding with barcode reader sdk
+\C#\PDF and OCR (Optical Character Recognition) with PDF Extractor SDK
+\C#\PDF Batch Processing with PDF Extractor SDK
+\C#\PDF files Parallel Processing with PDF Extractor SDK
+\C#\PDF Invoice Parsing with PDF Extractor SDK
+\C#\PDF-A Compatibility Test with PDF Extractor SDK
+\C#\Read barcode from live video cam with barcode reader sdk
+\C#\Read barcodes from live video cam (wpf) with barcode reader sdk
+\C#\Read barcodes from pdf with barcode reader sdk
+\C#\Read barcodes from tiff with barcode reader sdk
+\C#\Read cell color with spreadsheet sdk
+\C#\Read checkboxes with barcode reader sdk
+\C#\Read csv file with spreadsheet sdk
+\C#\Read date from cell with spreadsheet sdk
+\C#\Read document properties with spreadsheet sdk
+\C#\Read formula from cell with spreadsheet sdk
+\C#\Read Hindi Text from PDF with PDF Extractor SDK
+\C#\Read merged cells with spreadsheet sdk
+\C#\Read number format in cell with spreadsheet sdk
+\C#\Read ods (open office calc) files with spreadsheet sdk
+\C#\Read Text From Noisy Image with PDF Extractor SDK
+\C#\Read txt (tab delimited) with spreadsheet sdk
+\C#\Read Values from PDF Form Fields with PDF Extractor SDK
+\C#\Read vcard from qr code with barcode reader sdk
+\C#\Read xlsx (office 2007) files with spreadsheet sdk
+\C#\Read xml spreadsheet (spreadsheetml format) with spreadsheet sdk
+\C#\Reduce cpu usage with barcode reader sdk
+\C#\Reduce Memory Usage for PDF to Text with PDF Extractor SDK
+\C#\Remove columns from existing spreadsheet with spreadsheet sdk
+\C#\Remove Empty Pages from PDF with PDF Extractor SDK
+\C#\Remove rows from existing spreadsheet with spreadsheet sdk
+\C#\Remove Text from PDF with PDF Extractor SDK
+\C#\Rename worksheet with spreadsheet sdk
+\C#\Repair Text in PDF with PDF Extractor SDK
+\C#\Rotate PDF Document with PDF Extractor SDK
+\C#\Search text with spreadsheet sdk
+\C#\SearchablePDFMaker Progress Indication with PDF Extractor SDK
+\C#\Select active worksheet with spreadsheet sdk
+\C#\Set barcode decoding profiles with barcode reader sdk
+\C#\Set cell alignment with spreadsheet sdk
+\C#\Set cell formula with spreadsheet sdk
+\C#\Set Configuration Profiles with PDF Extractor SDK
+\C#\Set date formatting in cells with spreadsheet sdk
+\C#\Set number format in cells with spreadsheet sdk
+\C#\Set rich text formatting in cell with spreadsheet sdk
+\C#\Set shrinktofit for cells with spreadsheet sdk
+\C#\Sort range with spreadsheet sdk
+\C#\Split pdf document by found barcode with barcode reader sdk
+\C#\Split PDF Document with PDF Extractor SDK
+\C#\Split Protected PDF Document with PDF Extractor SDK
+\C#\Swap cells and their values with spreadsheet sdk
+\C#\Swap worksheets with spreadsheet sdk
+\C#\TextExtractor Progress Indication with PDF Extractor SDK
+\C#\Unmerge cells with spreadsheet sdk
+\C#\Use custom functions with spreadsheet sdk
+\C#\Use rich formatting to create report with spreadsheet sdk
+\C#\Use special cells with spreadsheet sdk
+\C#\Use unicode text with spreadsheet sdk
+\C#\Validate cell if value is in range with spreadsheet sdk
+\C#\Validate cells with dates with spreadsheet sdk
+\C#\Validate data in cell and mark wrong with color with spreadsheet sdk
+\C#\View spreadsheet with spreadsheet sdk
+\C#\Wpf ui example for barcode reading with barcode reader sdk
+\C#\ZUGFeRD Invoice Extraction with PDF Extractor SDK
+\C#\Batch check folder agianst JSON settings with PDF Extractor SDK\InputFiles
+\C#\Batch read barcodes to csv with barcode reader sdk\BarcodeFiles
+\C#\Check If OCR Is Required for PDF with PDF Extractor SDK\InputFiles
+\C#\Index PDF Documents In Folder with PDF Extractor SDK\Files
+\C++\Compare PDF Documents with PDF Extractor SDK
+\C++\Convert Protected PDF Document to Excel (C++ CLR) with PDF Extractor SDK
+\C++\Create simple spreadsheet with spreadsheet sdk
+\C++\Create simple spreasdsheet with spreadsheet sdk
+\C++\Extract PDF Pages with PDF Extractor SDK
+\C++\Extract Text from PDF with PDF Extractor SDK
+\C++\Find Table And Extract As CSV from PDF with PDF Extractor SDK
+\C++\General example reading barcode with barcode reader sdk
+\C++\Merge PDF Documents with PDF Extractor SDK
+\C++\Merge Protected PDF Documents (C++ CLR) with PDF Extractor SDK
+\C++\PDF and OCR (Optical Character Recognition) with PDF Extractor SDK
+\C++\Read barcode from image with barcode reader sdk
+\C++\Read barcode from memory with barcode reader sdk
+\C++\Set image preprocessing filters with barcode reader sdk
+\C++\Split PDF Document with PDF Extractor SDK
+\C++\Split Protected PDF Document (C++ CLR) with PDF Extractor SDK
+\Console\Convert in batch from xls to csv with spreadsheet sdk
+\Console\Convert in batch to xls with spreadsheet sdk
+\Console\Convert in batch from xls to csv with spreadsheet sdk\Input Files
+\Console\Convert in batch to xls with spreadsheet sdk\Input Files
+\Delphi\Barcode reading in console with barcode reader sdk
+\Delphi\Convert PDF To CSV with PDF Extractor SDK
+\Delphi\PDF Batch Processing with PDF Extractor SDK
+\Delphi\Read barcodes from subfolder with barcode reader sdk
+\JavaScript\Create spreadsheet with spreadsheet sdk
+\M-Files\Read barcodes with barcode reader sdk
+\Microsoft Access\Read barcode from pdf file with barcode reader sdk
+\Microsoft Excel\Extract Text From Coordinates from PDF with PDF Extractor SDK
+\PHP\Create spreadsheet with spreadsheet sdk
+\PHP\Read barcode from image with BarCode Reader SDK
+\Powershell\Convert PDF To JSON with PDF Extractor SDK
+\SAP PowerBuilder\Read Barcode From Image with BarCode Reader SDK
+\VB.NET\Acquire image from scanner and decode with barcode reader sdk
+\VB.NET\Add area chart with spreadsheet sdk
+\VB.NET\Add background image with spreadsheet sdk
+\VB.NET\Add bar chart with spreadsheet sdk
+\VB.NET\Add bubble chart with spreadsheet sdk
+\VB.NET\Add column chart with spreadsheet sdk
+\VB.NET\Add columns into existing spreadsheet with spreadsheet sdk
+\VB.NET\Add combination chart with spreadsheet sdk
+\VB.NET\Add doughnut chart with spreadsheet sdk
+\VB.NET\Add header and footer with spreadsheet sdk
+\VB.NET\Add image stamp in pdf with pdf extractor sdk
+\VB.NET\Add images advanced with spreadsheet sdk
+\VB.NET\Add images with spreadsheet sdk
+\VB.NET\Add line chart with spreadsheet sdk
+\VB.NET\Add pie chart with spreadsheet sdk
+\VB.NET\Add radar chart with spreadsheet sdk
+\VB.NET\Add rows into existing spreadsheet with spreadsheet sdk
+\VB.NET\Add stock chart with spreadsheet sdk
+\VB.NET\Add surface chart with spreadsheet sdk
+\VB.NET\Add xyscatter chart with spreadsheet sdk
+\VB.NET\Barcode image preprocessing filters with barcode reader sdk
+\VB.NET\Barcode reading profiles with barcode reader sdk
+\VB.NET\Batch check folder agianst json settings with pdf extractor sdk
+\VB.NET\Batch read barcodes to csv with barcode reader sdk
+\VB.NET\Batch read from files with barcode reader sdk
+\VB.NET\Calculate formula in cell with spreadsheet sdk
+\VB.NET\Calculate xirr function with spreadsheet sdk
+\VB.NET\Calculations and spreadsheet as database with spreadsheet sdk
+\VB.NET\Change cell width and height with spreadsheet sdk
+\VB.NET\Change column width and row height with spreadsheet sdk
+\VB.NET\Change data in existing spreadsheet with spreadsheet sdk
+\VB.NET\Change document properties with spreadsheet sdk
+\VB.NET\Check if ocr is required for pdf with pdf extractor sdk
+\VB.NET\Compare pdf documents with pdf extractor sdk
+\VB.NET\Convert ods to sql server with spreadsheet sdk
+\VB.NET\Convert pdf to csv  (merge multiline text to table cell) with pdf extractor sdk
+\VB.NET\Convert pdf to csv by pages with pdf extractor sdk
+\VB.NET\Convert pdf to csv with pdf extractor sdk
+\VB.NET\Convert pdf to json with images with pdf extractor sdk
+\VB.NET\Convert pdf to json with pdf extractor sdk
+\VB.NET\Convert pdf to xfdf with pdf extractor sdk
+\VB.NET\Convert pdf to xls with pdf extractor sdk
+\VB.NET\Convert pdf to xlsx with pdf extractor sdk
+\VB.NET\Convert pdf to xml with images with pdf extractor sdk
+\VB.NET\Convert pdf to xml with pdf extractor sdk
+\VB.NET\Convert protected pdf document to xls with pdf extractor sdk
+\VB.NET\Convert scanned pdf to csv with pdf extractor sdk
+\VB.NET\Convert scanned pdf to json with pdf extractor sdk
+\VB.NET\Convert scanned pdf to text with pdf extractor sdk
+\VB.NET\Convert scanned pdf to xml with pdf extractor sdk
+\VB.NET\Convert template to xls with spreadsheet sdk
+\VB.NET\Convert txt to sql server with spreadsheet sdk
+\VB.NET\Convert xfa form to xml in pdf with pdf extractor sdk
+\VB.NET\Convert xls to csv with spreadsheet sdk
+\VB.NET\Convert xls to sql server (via csv bulk insert) with spreadsheet sdk
+\VB.NET\Convert xls to sql server with spreadsheet sdk
+\VB.NET\Convert xls to txt with spreadsheet sdk
+\VB.NET\Convert xls to xlsx with spreadsheet sdk
+\VB.NET\Convert xls to xml and xml to xls with spreadsheet sdk
+\VB.NET\Convert xls to xml with spreadsheet sdk
+\VB.NET\Convert xlsx to sql server with spreadsheet sdk
+\VB.NET\Convert xml to xls with spreadsheet sdk
+\VB.NET\Copy range with spreadsheet sdk
+\VB.NET\Copy worksheet with spreadsheet sdk
+\VB.NET\Copypaste columns with spreadsheet sdk
+\VB.NET\Copypaste rows with spreadsheet sdk
+\VB.NET\Create simple hello world spreadsheet with spreadsheet sdk
+\VB.NET\Create worksheets with spreadsheet sdk
+\VB.NET\Create xlsx with spreadsheet sdk
+\VB.NET\Csv to sql server with spreadsheet sdk
+\VB.NET\Csv to xls with spreadsheet sdk
+\VB.NET\Data masking in pdf with pdf extractor sdk
+\VB.NET\Decode australian post code barcode with barcode reader sdk
+\VB.NET\Decode aztec barcode with barcode reader sdk
+\VB.NET\Decode bookland barcode with barcode reader sdk
+\VB.NET\Decode checkboxes barcode with barcode reader sdk
+\VB.NET\Decode codabar barcode with barcode reader sdk
+\VB.NET\Decode codablock f barcode with barcode reader sdk
+\VB.NET\Decode code 128 barcode with barcode reader sdk
+\VB.NET\Decode code 16k barcode with barcode reader sdk
+\VB.NET\Decode code 39 barcode with barcode reader sdk
+\VB.NET\Decode code 93 barcode with barcode reader sdk
+\VB.NET\Decode damaged code 128 barcode with barcode reader sdk
+\VB.NET\Decode damaged code 39 barcode with barcode reader sdk
+\VB.NET\Decode damaged datamatrix barcode with barcode reader sdk
+\VB.NET\Decode damaged qr code barcode with barcode reader sdk
+\VB.NET\Decode datamatrix barcode with barcode reader sdk
+\VB.NET\Decode deutsche post identcode barcode with barcode reader sdk
+\VB.NET\Decode deutsche post leitcode barcode with barcode reader sdk
+\VB.NET\Decode ean-128 barcode with barcode reader sdk
+\VB.NET\Decode ean-13 barcode with barcode reader sdk
+\VB.NET\Decode ean-14 barcode with barcode reader sdk
+\VB.NET\Decode ean-2 barcode with barcode reader sdk
+\VB.NET\Decode ean-5 barcode with barcode reader sdk
+\VB.NET\Decode ean-8 barcode with barcode reader sdk
+\VB.NET\Decode gs1 databar expanded barcode with barcode reader sdk
+\VB.NET\Decode gs1 databar expanded stacked barcode with barcode reader sdk
+\VB.NET\Decode gs1 databar limited barcode with barcode reader sdk
+\VB.NET\Decode gs1 databar omnidirectional barcode with barcode reader sdk
+\VB.NET\Decode gs1 databar stacked barcode with barcode reader sdk
+\VB.NET\Decode gs1 datamatrix barcode with barcode reader sdk
+\VB.NET\Decode gs1-128 barcode with barcode reader sdk
+\VB.NET\Decode intelligent mail barcode with barcode reader sdk
+\VB.NET\Decode interleaved 2 of 5 barcode with barcode reader sdk
+\VB.NET\Decode isbn barcode with barcode reader sdk
+\VB.NET\Decode itf-14 barcode with barcode reader sdk
+\VB.NET\Decode jan-13 barcode with barcode reader sdk
+\VB.NET\Decode macro pdf417 barcode with barcode reader sdk
+\VB.NET\Decode maxicode barcode with barcode reader sdk
+\VB.NET\Decode micr from bank check barcode with barcode reader sdk
+\VB.NET\Decode numly barcode with barcode reader sdk
+\VB.NET\Decode page by page from tiff barcode with barcode reader sdk
+\VB.NET\Decode patch code barcode with barcode reader sdk
+\VB.NET\Decode pdf417 barcode with barcode reader sdk
+\VB.NET\Decode pzn barcode with barcode reader sdk
+\VB.NET\Decode qr code barcode with barcode reader sdk
+\VB.NET\Decode qr code barcode with json with barcode reader sdk
+\VB.NET\Decode royal mail barcode with barcode reader sdk
+\VB.NET\Decode royal mail kix barcode with barcode reader sdk
+\VB.NET\Decode swiss post parcel barcode with barcode reader sdk
+\VB.NET\Decode truncated pdf417 barcode with barcode reader sdk
+\VB.NET\Decode upc-a barcode with barcode reader sdk
+\VB.NET\Decode upc-e barcode with barcode reader sdk
+\VB.NET\Decode usps sack label barcode with barcode reader sdk
+\VB.NET\Decode usps tray label barcode with barcode reader sdk
+\VB.NET\Decoding barcodes from pdf by pages with barcode reader sdk
+\VB.NET\Detect lines in pdf with pdf extractor sdk
+\VB.NET\Export results to xml, csv, txt with barcode reader sdk
+\VB.NET\Export to 2d array with spreadsheet sdk
+\VB.NET\Export to dataset with spreadsheet sdk
+\VB.NET\Export to datatable with spreadsheet sdk
+\VB.NET\Export to html with spreadsheet sdk
+\VB.NET\Export to jagged array with spreadsheet sdk
+\VB.NET\Export to json with spreadsheet sdk
+\VB.NET\Export to list with spreadsheet sdk
+\VB.NET\Export to pdf with spreadsheet sdk
+\VB.NET\Export to winforms datagrid with spreadsheet sdk
+\VB.NET\Extract attachments from pdf with pdf extractor sdk
+\VB.NET\Extract audio from pdf with pdf extractor sdk
+\VB.NET\Extract csv from pdf and fill database in sql server with pdf extractor sdk
+\VB.NET\Extract filled pdf form data with pdf extractor sdk
+\VB.NET\Extract images by page from pdf with pdf extractor sdk
+\VB.NET\Extract images from pdf with pdf extractor sdk
+\VB.NET\Extract info about pdf with pdf extractor sdk
+\VB.NET\Extract pages from pdf with pdf extractor sdk
+\VB.NET\Extract pdf to text as stream with pdf extractor sdk
+\VB.NET\Extract table structure from pdf with pdf extractor sdk
+\VB.NET\Extract text by columns from pdf with pdf extractor sdk
+\VB.NET\Extract text by pages from pdf with pdf extractor sdk
+\VB.NET\Extract text from page area in pdf with pdf extractor sdk
+\VB.NET\Extract text from pdf with pdf extractor sdk
+\VB.NET\Extract video from pdf with pdf extractor sdk
+\VB.NET\File processing using profiles with pdf extractor sdk
+\VB.NET\Find email addresses in pdf using regex with pdf extractor sdk
+\VB.NET\Find keyword in pdf and extract page with pdf extractor sdk
+\VB.NET\Find keyword in pdf and extract text with pdf extractor sdk
+\VB.NET\Find phone number in pdf with regex with pdf extractor sdk
+\VB.NET\Find ssn number in pdf with regex with pdf extractor sdk
+\VB.NET\Find table in pdf and extract as csv with pdf extractor sdk
+\VB.NET\Find table in pdf and extract as xml with pdf extractor sdk
+\VB.NET\Find text in pdf with pdf extractor sdk
+\VB.NET\Find text in pdf with regex with pdf extractor sdk
+\VB.NET\Find text in pdf with smart match with pdf extractor sdk
+\VB.NET\Find text with hyphens in pdf with pdf extractor sdk
+\VB.NET\Find us address in pdf with regex with pdf extractor sdk
+\VB.NET\Font style in cell with spreadsheet sdk
+\VB.NET\Fonts available for cells with spreadsheet sdk
+\VB.NET\Freeze rows and columns with spreadsheet sdk
+\VB.NET\General barcode reading example with barcode reader sdk
+\VB.NET\Generate invoice with spreadsheet sdk
+\VB.NET\Get cell color with spreadsheet sdk
+\VB.NET\Gui example for barcode reading with barcode reader sdk
+\VB.NET\Import from 2d array with spreadsheet sdk
+\VB.NET\Import from dataset with spreadsheet sdk
+\VB.NET\Import from datatable with spreadsheet sdk
+\VB.NET\Import from jagged array with spreadsheet sdk
+\VB.NET\Import from json with spreadsheet sdk
+\VB.NET\Import from list with spreadsheet sdk
+\VB.NET\Import from winforms datagrid with spreadsheet sdk
+\VB.NET\Index pdf documents in folder with pdf extractor sdk
+\VB.NET\Index pdf files with pdf extractor sdk
+\VB.NET\Insert page break with spreadsheet sdk
+\VB.NET\Interrupt barcode processing with barcode reader sdk
+\VB.NET\Line styles in cells with spreadsheet sdk
+\VB.NET\Make searchable pdf and fix rotated pages with pdf extractor sdk
+\VB.NET\Make searchable pdf discarding existing content with pdf extractor sdk
+\VB.NET\Make searchable pdf from image with pdf extractor sdk
+\VB.NET\Make searchable pdf with pdf extractor sdk
+\VB.NET\Make unsearchable pdf with pdf extractor sdk
+\VB.NET\Merge cells with spreadsheet sdk
+\VB.NET\Merge pdf documents with pdf extractor sdk
+\VB.NET\Merge protected pdf documents with pdf extractor sdk
+\VB.NET\Merge two documents with spreadsheet sdk
+\VB.NET\Number format in cells with spreadsheet sdk
+\VB.NET\Ocr (optical character recognition) and pdf with pdf extractor sdk
+\VB.NET\Ocr analyser in pdf with pdf extractor sdk
+\VB.NET\Ocr with best dataset with pdf extractor sdk
+\VB.NET\Ocr with fast dataset with pdf extractor sdk
+\VB.NET\Ocr with mean dataset with pdf extractor sdk
+\VB.NET\Optimize pdf with pdf extractor sdk
+\VB.NET\Parallel barcode decoding with barcode reader sdk
+\VB.NET\Parallel processing of pdf files with pdf extractor sdk
+\VB.NET\Pdf files batch processing with pdf extractor sdk
+\VB.NET\Pdf invoice parsing with pdf extractor sdk
+\VB.NET\Pdf-a compatibility test with pdf extractor sdk
+\VB.NET\Read barcode from live video cam (simplified) with barcode reader sdk
+\VB.NET\Read barcode from live video cam (wpf) with barcode reader sdk
+\VB.NET\Read barcode from live video cam with barcode reader sdk
+\VB.NET\Read barcodes from pdf with barcode reader sdk
+\VB.NET\Read barcodes from tiff with barcode reader sdk
+\VB.NET\Read cell color with spreadsheet sdk
+\VB.NET\Read checkboxes from image with barcode reader sdk
+\VB.NET\Read csv file with spreadsheet sdk
+\VB.NET\Read date from cell with spreadsheet sdk
+\VB.NET\Read document properties with spreadsheet sdk
+\VB.NET\Read formula from cell with spreadsheet sdk
+\VB.NET\Read hindi text with pdf extractor sdk
+\VB.NET\Read merged cells with spreadsheet sdk
+\VB.NET\Read number format in cell with spreadsheet sdk
+\VB.NET\Read ods (open office calc) files with spreadsheet sdk
+\VB.NET\Read text from noisy image with pdf extractor sdk
+\VB.NET\Read values from form fields with pdf extractor sdk
+\VB.NET\Read vcard from qr code with barcode reader sdk
+\VB.NET\Read xlsx (office 2007) files with spreadsheet sdk
+\VB.NET\Read xml spreadsheet (spreadsheetml format) with spreadsheet sdk
+\VB.NET\Reduce cpu usage with barcode reader sdk
+\VB.NET\Reduce memory usage with pdf extractor sdk
+\VB.NET\Remove columns from existing spreadsheet with spreadsheet sdk
+\VB.NET\Remove empty pages with pdf extractor sdk
+\VB.NET\Remove rows from existing spreadsheet with spreadsheet sdk
+\VB.NET\Remove text with pdf extractor sdk
+\VB.NET\Rename worksheet with spreadsheet sdk
+\VB.NET\Repair text with pdf extractor sdk
+\VB.NET\Rich text formatting in cell with spreadsheet sdk
+\VB.NET\Rotate document with pdf extractor sdk
+\VB.NET\Search text with spreadsheet sdk
+\VB.NET\Searchablepdfmaker progress indication with pdf extractor sdk
+\VB.NET\Select active worksheet with spreadsheet sdk
+\VB.NET\Set cell alignment with spreadsheet sdk
+\VB.NET\Set cell formula with spreadsheet sdk
+\VB.NET\Set custom functions with spreadsheet sdk
+\VB.NET\Set date formatting in cells with spreadsheet sdk
+\VB.NET\Set hidden formula with spreadsheet sdk
+\VB.NET\Set hidden rows and columns with spreadsheet sdk
+\VB.NET\Set shrinktofit for cells with spreadsheet sdk
+\VB.NET\Split document with pdf extractor sdk
+\VB.NET\Split pdf document by found barcode with barcode reader sdk
+\VB.NET\Split protected pdf document with pdf extractor sdk
+\VB.NET\Swap cells and their values with spreadsheet sdk
+\VB.NET\Swap worksheets with spreadsheet sdk
+\VB.NET\Textextractor progress indication with pdf extractor sdk
+\VB.NET\Unmerge cells with spreadsheet sdk
+\VB.NET\Use rich formatting to create report with spreadsheet sdk
+\VB.NET\Use unicode text with spreadsheet sdk
+\VB.NET\Validate cell if value is in range with spreadsheet sdk
+\VB.NET\Validate cells with dates with spreadsheet sdk
+\VB.NET\Validate data in cell and mark wrong with color with spreadsheet sdk
+\VB.NET\View spreadsheet with spreadsheet sdk
+\VB.NET\Wpf ui barcode reading example with barcode reader sdk
+\VB.NET\Zugferd invoice extraction with pdf extractor sdk
+\VB.NET\Batch check folder agianst json settings with pdf extractor sdk\InputFiles
+\VB.NET\Batch read barcodes to csv with barcode reader sdk\BarcodeFiles
+\VB.NET\Check if ocr is required for pdf with pdf extractor sdk\InputFiles
+\VB.NET\Index pdf documents in folder with pdf extractor sdk\Files
+\VBScript\Add images to spreadsheet with spreadsheet sdk
+\VBScript\Barcode image preprocessing filters with barcode reader sdk
+\VBScript\Barcode reading profiles with barcode reader sdk
+\VBScript\Barcodes to excel with barcode reader sdk
+\VBScript\Batch read barcodes from files with barcode reader sdk
+\VBScript\Change cell background color with spreadsheet sdk
+\VBScript\Change column height with spreadsheet sdk
+\VBScript\Change row height with spreadsheet sdk
+\VBScript\Compare pdf documents with pdf extractor sdk
+\VBScript\Convert csv to xls with spreadsheet sdk
+\VBScript\Convert pdf to csv (merge multiline text to table cell) with pdf extractor sdk
+\VBScript\Convert pdf to csv by pages with pdf extractor sdk
+\VBScript\Convert pdf to csv with pdf extractor sdk
+\VBScript\Convert pdf to json with images with pdf extractor sdk
+\VBScript\Convert pdf to json with pdf extractor sdk
+\VBScript\Convert pdf to xfdf with pdf extractor sdk
+\VBScript\Convert pdf to xls with pdf extractor sdk
+\VBScript\Convert pdf to xml with images with pdf extractor sdk
+\VBScript\Convert pdf to xml with pdf extractor sdk
+\VBScript\Copy data between spreadsheets with spreadsheet sdk
+\VBScript\Create barcode from excel with spreadsheet sdk
+\VBScript\Create simple spreadsheet with spreadsheet sdk
+\VBScript\Export to html with spreadsheet sdk
+\VBScript\Extract attachments from pdf with pdf extractor sdk
+\VBScript\Extract image coordinates by page from pdf with pdf extractor sdk
+\VBScript\Extract images by page from pdf with pdf extractor sdk
+\VBScript\Extract images coordinates from pdf with pdf extractor sdk
+\VBScript\Extract images from pdf with pdf extractor sdk
+\VBScript\Extract pages from pdf with pdf extractor sdk
+\VBScript\Extract pdf info from pdf with pdf extractor sdk
+\VBScript\Extract table structure from pdf with pdf extractor sdk
+\VBScript\Extract text by columns from pdf with pdf extractor sdk
+\VBScript\Extract text by pages from pdf with pdf extractor sdk
+\VBScript\Extract text from page area from pdf with pdf extractor sdk
+\VBScript\Extract text from pdf with pdf extractor sdk
+\VBScript\Find hyphenated text in pdf with pdf extractor sdk
+\VBScript\Find pdf table and extract as csv with pdf extractor sdk
+\VBScript\Find pdf table and extract as xml with pdf extractor sdk
+\VBScript\Find text in pdf using regex with pdf extractor sdk
+\VBScript\Find text in pdf with pdf extractor sdk
+\VBScript\Index pdf files with pdf extractor sdk
+\VBScript\Make searchable pdf and fix rotated pages with pdf extractor sdk
+\VBScript\Make searchable pdf discarding existing content with pdf extractor sdk
+\VBScript\Make searchable pdf with pdf extractor sdk
+\VBScript\Make unsearchable pdf with pdf extractor sdk
+\VBScript\Merge cells and set alignment with spreadsheet sdk
+\VBScript\Merge pdf documents with pdf extractor sdk
+\VBScript\Ocr analyser for pdf with pdf extractor sdk
+\VBScript\Ocr with best dataset with pdf extractor sdk
+\VBScript\Ocr with fast dataset with pdf extractor sdk
+\VBScript\Ocr with mean dataset with pdf extractor sdk
+\VBScript\Pdf extraction profiles with pdf extractor sdk
+\VBScript\Pdf files batch processing with pdf extractor sdk
+\VBScript\Pdf ocr (optical character recognition) with pdf extractor sdk
+\VBScript\Pdf xfa form to xml with pdf extractor sdk
+\VBScript\Read barcode from pdf with barcode reader sdk
+\VBScript\Read barcode from webcam or scanner with barcode reader sdk
+\VBScript\Read code 39 to excel with barcode reader sdk
+\VBScript\Read qr code to excel with barcode reader sdk
+\VBScript\Reduce memory usage for pdf extraction with pdf extractor sdk
+\VBScript\Remove text from pdf with pdf extractor sdk
+\VBScript\Rename files to barcode values with barcode reader sdk
+\VBScript\Rotate pdf document with pdf extractor sdk
+\VBScript\Save as pdf with spreadsheet sdk
+\VBScript\Search barcodes in documents and write results to file with barcode reader sdk
+\VBScript\Simple barcode reading with barcode reader sdk
+\VBScript\Split pdf document with pdf extractor sdk
+\VBScript\Use rich text formatting with spreadsheet sdk
+\VBScript\Zugferd invoice extraction with pdf extractor sdk
+\VBScript\Barcodes to excel with barcode reader sdk\InputFiles
+\VBScript\Read code 39 to excel with barcode reader sdk\InputFiles
+\VBScript\Read qr code to excel with barcode reader sdk\InputFiles
+\Visual Basic 6\Convert pdf to csv (merge multiline text to table cell) with pdf extractor sdk
+\Visual Basic 6\Convert pdf to csv with pdf extractor sdk
+\Visual Basic 6\Convert pdf to json with pdf extractor sdk
+\Visual Basic 6\Convert pdf to text with pdf extractor sdk
+\Visual Basic 6\Convert pdf to xml with pdf extractor sdk
+\Visual Basic 6\Convert scanned pdf to text with pdf extractor sdk
+\Visual Basic 6\Create spreadsheet with spreadsheet sdk
+\Visual Basic 6\Merge pdf with pdf extractor sdk
+\Visual Basic 6\Simple barcode reading with BarCode Reader SDK
+\Visual Basic 6\Split pdf with pdf extractor sdk
